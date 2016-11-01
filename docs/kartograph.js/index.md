@@ -225,7 +225,7 @@ For more advanced tooltips you need to include the jQuery qTips plugin.
 You can download both files from Github:
 
 * [jquery.qtip.js](https://github.com/Craga89/qTip2/blob/master/src/tips/tips.js)
-* [jquery.qtip.css](https://github.com/Craga89/qTip2/blob/master/src/tips/tips.js)
+* [jquery.qtip.css](https://github.com/Craga89/qTip2/blob/master/src/tips/tips.css)
 
 In the tooltip callback you can either return a single string or and array of two strings, of which the first will be shown as tooltip header and the second as tooltip body.
 
